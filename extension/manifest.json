@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Writing Tool",
+  "version": "0.1",
+  "description": "Basic editing helper: grammar checking, rephrasing, shortening, and issue detection.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Writing Tool"
+  },
+  "permissions": ["activeTab"]
+}
