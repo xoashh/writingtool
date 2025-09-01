@@ -1,0 +1,8 @@
+{
+  "name": "writingtool",
+  "version": "0.1.0",
+  "description": "Chrome extension for basic writing assistance.",
+  "scripts": {
+    "test": "node test.js"
+  }
+}

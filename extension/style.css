@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  width: 320px;
+  padding: 10px;
+}
+
+textarea {
+  width: 100%;
+}
+
+#actions {
+  margin-top: 8px;
+}
+
+button {
+  margin-right: 4px;
+  margin-top: 4px;
+}
+
+#results {
+  white-space: pre-wrap;
+  margin-top: 8px;
+}
